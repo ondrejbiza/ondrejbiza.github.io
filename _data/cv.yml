@@ -1,0 +1,46 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Ondrej Biza
+    - name: Languages
+      value: English, Czech
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Northeastern University, Boston, MA, USA
+      year: 2019 - Present
+      description:
+    - title: M.S.
+      institution: Northeastern University, Boston, MA, USA
+      year: 2019 - 2022
+      description:
+    - title: B.S.
+      institution: Czech Technical University, Prague, Czech Republic
+      year: 2016 - 2019
+      description:
+
+- title: Experience
+  type: time_table
+  contents:
+
+    - title: Intern
+      institution: Boston Dynamics AI Institute
+      year: 2023 - Present
+      description:
+
+    - title: Research Assistant
+      institution: Northeastern University, Boston, MA, USA
+      year: 2019 - Present
+      description:
+
+    - title: Student Researcher
+      institution: Google Brain
+      year: 2022
+
+    - title: Research Scientist
+      institution: Czech Technical University, Prague, Czech Republic
+      year: 2017 - 2019
+      description:
