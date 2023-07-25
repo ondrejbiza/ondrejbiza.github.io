@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate at Northeastern University advised by <a href='#'>Rob Platt</a>, <a href='#'>Lawson Wong</a> and <a href='#'>Jan-Willem van de Meent</a> (<a href='#'>UvA</a>). I primarily work in the <a href='#'>Helping Hands Lab</a>, but I am currently doing an internship at <a href='#'>the Boston Dynamics AI Institute</a>. Previously, I was a student researcher at <a href='https://research.google/teams/brain/'>Google Brain</a> and an undergrad at <a href='#'>CVUT</a>.
+I am a PhD candidate at Northeastern University advised by <a href='https://www.khoury.northeastern.edu/people/robert-platt/'>Rob Platt</a>, <a href='https://www.khoury.northeastern.edu/people/lawson-wong/'>Lawson Wong</a> and <a href='https://jwvdm.github.io'>Jan-Willem van de Meent</a> (<a href='https://www.uva.nl/en'>UvA</a>). I primarily work in the <a href='#'>Helping Hands Lab</a>, but I am currently doing an internship at <a href='theaiinstitute.com'>the Boston Dynamics AI Institute</a>. Previously, I was a student researcher at <a href='https://research.google/teams/brain/'>Google Brain</a> and an undergrad at <a href='https://www.cvut.cz/en'>CVUT</a>.
 
-I am interested in scene understanding (<a href='#'>finding objects</a>, <a href='#'>understanding their 3D shapes</a>, <a href='#'>learning intuitive physics</a>) applied to robot learning. My goal is train robot policies that generalize over objects and scenes, and are able to capture a large number of tasks. My most current research interest is in robots learning to imitate human behaviors seen in videos on the internet.
+I am interested in scene understanding (<a href='https://arxiv.org/abs/2302.04973'>finding objects</a>, <a href='https://arxiv.org/abs/2306.12392'>understanding their 3D shapes</a>, <a href='https://arxiv.org/abs/2204.11371'>learning intuitive physics</a>) applied to robot learning. My goal is train robot policies that generalize over objects and scenes, and are able to capture a large number of tasks. My most current research interest is in robots learning to imitate human behaviors seen in videos on the internet.
 
 <!-- ...
 
